@@ -1,0 +1,40 @@
+what is variable?
+variable is a programming element whose value can be changed during the execution of the program.
+ex: int a,b,aa,bb;
+
+what is constant?
+constant is a programming element whose value cannot be changed during the execution of the program.
+ex: float avg=6.56;
+
+what is data type?
+The type of input data for easy processing.
+ex: int float char double.
+
+what is function?
+ the program which is divided into sub program ,then the sub program is called function.
+->two types of function are
+1. built in function
+2.user-defined function
+
+what is built in function?
+the function pre-defined by the compiler are called built in function.
+sqrt(x)
+pow(n)
+min(4.5)
+
+what is keyword?
+keywords  are reserve word those have special meaning in compiler.
+expublic,break,do,void,return struct,class etc
+
+what is identifier?
+the name given to the programming element for identification is called identifier.
+ex: sum ,num,result
+
+what is operator?
+it is symbol which perform specific operation.
+ex: +,-,*,/,*
+
+what is data structure?
+it is specialized format of organizing ,formating and storing data
+
+
